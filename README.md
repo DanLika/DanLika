@@ -8,7 +8,7 @@ Building production software with React, Next.js, Flutter, and Firebase. From bl
 
 **[BookBed](https://bookbed.io)** — Multi-platform property management system. iOS, Android, Web, macOS, Linux, Windows from a single Flutter codebase. Bidirectional iCal sync, Stripe, Firebase. 6 months, solo.
 
-**[Callidus OS](https://callidusos.co.uk/)** — Multi-tenant clinic management SaaS. Aesthetic clinic scheduling, patient records, invoicing, consent forms. Firestore security rules, Stripe Connect, custom face-mapping editor. 6 weeks solo, replaced failed FlutterFlow attempt.
+**[Callidus OS](https://callidusos.co.uk/)** — Multi-tenant clinic management SaaS. Aesthetic clinic scheduling, patient records, invoicing, consent forms. Firestore security rules, Stripe Connect, custom face-mapping editor. roughly 10 weeks solo, replaced failed FlutterFlow attempt.
 
 **[Pizzeria Bestek](https://pizzeriabestek.com)** — Restaurant ordering platform. Custom ordering + real-time admin dashboard. Four-language localization (EN/DE/IT/HR), email-driven workflow, Supabase Realtime. Fixed-price handover — restaurant owns all infrastructure.
 
